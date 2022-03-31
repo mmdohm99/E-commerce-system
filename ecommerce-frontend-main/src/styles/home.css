@@ -1,0 +1,15 @@
+.Container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  /* justify-content: "center"; */
+}
+
+a {
+  margin: "2px" !important;
+  
+  border-radius: "5px" !important;
+}
+.activeNumber {
+  background-color: #444 !important;
+  color: beige !important;
+}
